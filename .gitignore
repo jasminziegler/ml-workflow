@@ -1,0 +1,12 @@
+# ignore the rest
+#*
+#/*
+#/*/*
+#/*/*/*
+modeling/logreg-iris/*.data
+
+# do not ignore the following:
+!.gitignore
+!README.md
+#!modeling/logreg-iris/*.md
+
